@@ -13,7 +13,7 @@ Esta é uma aplicação web que exibe uma galeria de memes utilizando a API púb
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/galeria-de-memes.git
+   git clone https://github.com/matheuslima22/galeria-de-memes.git
 
 2. Navegue até o diretório do projeto:
 
