@@ -1,6 +1,6 @@
 # Galeria de Memes
 
-Esta é uma aplicação simples que exibe uma galeria de memes utilizando a API pública do [Imgflip](https://api.imgflip.com/get_memes).
+Esta é uma aplicação web que exibe uma galeria de memes utilizando a API pública do [Imgflip](https://api.imgflip.com/get_memes).
 
 ## Tecnologias Utilizadas
 
